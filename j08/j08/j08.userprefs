@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/enemy/enmeySpawner.cs">
+    <Files>
+      <File FileName="Assets/scripts/enemy/enmeySpawner.cs" Line="14" Column="20" />
+      <File FileName="Assets/scripts/maya/moves.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/maya/attack.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/maya/stats.cs" Line="78" Column="1" />
+      <File FileName="Assets/scripts/enemy/enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/enemy/enemyStats.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/ui/refreshUI.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

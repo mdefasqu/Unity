@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/tank/tourelle.cs">
+    <Files>
+      <File FileName="Assets/script/enemy/enemy.cs" Line="7" Column="36" />
+      <File FileName="Assets/script/tank/orientation_tourelle.cs" Line="20" Column="23" />
+      <File FileName="Assets/script/tank/chenilles.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/tank/tourelle.cs" Line="44" Column="3" />
+      <File FileName="Assets/Particles/autoDestroy.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/enemy/lookat.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/life.cs" Line="15" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
